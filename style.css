@@ -1,0 +1,34 @@
+
+
+.content{
+    font-family: 'Sen', sans-serif;
+    
+    width: 610px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.title{
+    font-weight: 700;
+}
+
+.primary-button{
+    background-color: #252525;
+    color: #fff;
+    padding: 15px 30px;
+    margin-bottom: 100px;
+    border-radius: 16%;
+}
+.images-list{
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+.image{
+    margin-left: 16px;
+    margin-top: 16px;
+    width: 316px;
+    height: 288px;
+}
